@@ -1,6 +1,6 @@
 # nuxt_components_sandbox
 
-> My super-duper Nuxt.js project
+> Vue components sandbox
 
 ## Build Setup
 
